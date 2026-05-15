@@ -3,13 +3,6 @@
 This directory contains a static, browser-only blind annotation interface for
 the PragMega error taxonomy validation subset.
 
-## Files
-
-- `index.html`: self-contained annotation UI.
-
-The interface embeds the 40 blind error cases and does not include model
-identity keys or OpenAI labels.
-
 ## How to Use
 
 Open `index.html` in a browser, annotate each case, then click
