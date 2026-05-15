@@ -15,7 +15,7 @@ identity keys or OpenAI labels.
 Open `index.html` in a browser, annotate each case, then click
 `Export annotations CSV`.
 
-Send the exported CSV to the study organizer for agreement analysis.
+Please send the exported CSV to the jihyung803@utexas.edu for agreement analysis.
 
 ## Annotation Labels
 
@@ -36,12 +36,3 @@ Send the exported CSV to the study organizer for agreement analysis.
 
 Use `unclear / cannot judge` if the output is too malformed or the case is too
 ambiguous.
-
-## GitHub Pages
-
-If this repository is published on GitHub, enable GitHub Pages from the `docs/`
-directory. The annotation interface will be available at:
-
-```text
-https://<username>.github.io/<repo>/pragmega-error-annotation/
-```
